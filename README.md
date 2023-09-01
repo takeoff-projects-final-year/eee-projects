@@ -7,14 +7,10 @@ Unveiling the World of EEE Projects:
 Electrical and Electronic Engineering projects are the epitome of creativity meeting technical prowess. Takeoff Edu Group's commitment to fostering innovation is reflected in its diverse range of [EEE projects](https://takeoffprojects.com/) that span across various engineering departments.
 
 1.	Robotics and Automation
-2.	
-3.	Renewable Energy Systems
-4.	
-5.	IoT and Embedded Systems
-6.	
-7.	Digital Signal Processing (DSP) Applications
-8.	
-9.	Communication Systems
+2.	Renewable Energy Systems
+3.	IoT and Embedded Systems
+4.	Digital Signal Processing (DSP) Applications
+5.	Communication Systems
 
 [![image](https://github.com/takeoff-projects-final-year/eee-projects/assets/122364815/9221dae0-2873-4e11-a44a-7e335fcf6a95)](https://takeoffprojects.com/)
 
